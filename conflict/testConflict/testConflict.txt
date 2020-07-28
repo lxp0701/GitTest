@@ -1,0 +1,2 @@
+this is just a txt
+used to test conflict
